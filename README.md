@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome ou Nickname]
+# 👋 Olá! Eu sou Jonathan Moura Andrade
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente estou cursando Desenvolvimento de Software Multiplataforma e venho desenvolvendo habilidades sólidas em diversas tecnologias voltadas tanto para o front-end quanto para o back-end. Tenho conhecimentos práticos em frameworks como React, Angular e Vue, além de ter desenvolvido aplicações fullstack utilizando Express.js e Spring Boot, com bancos de dados SQL e SQLite.
 
