@@ -31,11 +31,6 @@ Sou uma pessoa comunicativa, extrovertida e com grande facilidade de trabalhar e
 - Docker (opcional, se usar)
 - Git e GitHub
 
-## 📈 GitHub Stats
-
-![user49tbd GitHub Stats](https://github-readme-stats.vercel.app/api?username=user49tbd&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user49tbd_USUARIO&layout=compact&theme=github_dark)
-
 ## 📫 Como me encontrar
 - LinkedIn: (www.linkedin.com/in/jonathan-andrade-12a58a214)
 - E-mail: jonathanmandr@gmail.com
