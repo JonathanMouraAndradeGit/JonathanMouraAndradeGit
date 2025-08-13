@@ -33,8 +33,8 @@ Sou uma pessoa comunicativa, extrovertida e com grande facilidade de trabalhar e
 
 ## 📈 GitHub Stats
 
-![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark)
+![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=user49tbd_USUARIO&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user49tbd_USUARIO&layout=compact&theme=github_dark)
 
 ## 📫 Como me encontrar
 - LinkedIn: (www.linkedin.com/in/jonathan-andrade-12a58a214)
