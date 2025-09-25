@@ -34,7 +34,7 @@ Sou uma pessoa comunicativa, extrovertida e com grande facilidade de trabalhar e
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📫 Como me encontrar
-- LinkedIn: www.linkedin.com/in/jonathan-andrade-12a58a214
+- LinkedIn: www.linkedin.com/in/jonathan-andrade-moura
 - E-mail: jonathanmandr@gmail.com
 
 ---
